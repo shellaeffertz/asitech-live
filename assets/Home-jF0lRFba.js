@@ -1,0 +1,1 @@
+import{_ as o,c as s,a as t,o as r}from"./index-wO-JHmMh.js";const a={},c={class:"bg-gray-100"};function n(l,e){return r(),s("div",c,e[0]||(e[0]=[t("h1",{class:"text-2xl font-bold"},"Hello World",-1)]))}const d=o(a,[["render",n]]);export{d as default};
